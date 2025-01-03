@@ -1,5 +1,6 @@
 ## discord-sniper-bot
 ### install Python 3.9.4 https://www.python.org/ftp/python/3.9.4/
+### pip3 install aiohttp
 
 - click the shunko-sniper.py or shunko-sniper.exe
 
