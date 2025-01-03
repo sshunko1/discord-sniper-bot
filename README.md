@@ -2,7 +2,7 @@
 ### install Python 3.9.4 https://www.python.org/ftp/python/3.9.4/
 ### pip3 install aiohttp
 
-- click the shunko-sniper.py or shunko-sniper.exe
+- click the shunko-sniper.py or \dist\shunko-sniper\shunko-sniper.exe
 
 ![explorer_i7O4ePgamX](https://github.com/user-attachments/assets/420aac33-2868-4a71-ac51-cb426d34d22f)
 
